@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header{
+	padding-top: 2.5rem;
+	min-height: 11rem;
+}
+.project-name{
+	margin-top: 0.5rem;
+}
+#logo {
+	float: left;
+	width: 15%;
+	border-radius: 1.5rem;
+	min-width: 6rem;
+}
+
+.main-content {
+	text-align: center;
+}
+.btn {
+display: inline-block;
+  margin-bottom: 1rem;
+  color: rgb(255, 255, 255);
+  background-color: rgb(21, 125, 116);
+  border-color: solid 1px $border-color;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  margin-top: 1rem;
+}
+  .btn:hover {
+    text-decoration: none;
+     color: rgb(255, 255, 255);
+     background-color: rgb(21, 125, 116);
+  
+  }
