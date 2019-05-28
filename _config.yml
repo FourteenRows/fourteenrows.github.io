@@ -5,7 +5,6 @@ locale                   : "it"
 title                    : "GaiaGo - P2PCS"
 name                     : &name "FourteenRows"
 url                      : https://fourteenrows.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : fourteenrows.github.io
 staticman:
   branch                 : "gh-pages" # "master", "gh-pages"
