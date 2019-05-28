@@ -4,7 +4,7 @@ show_downloads: true
 locale                   : "it"
 title                    : "GaiaGo - P2PCS"
 name                     : &name "FourteenRows"
-url                      : https://FourteenRows.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fourteenrows.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/P2PCS" # the subpath of your site, e.g. "/blog"
 repository               : "P2PCS"
 staticman:
